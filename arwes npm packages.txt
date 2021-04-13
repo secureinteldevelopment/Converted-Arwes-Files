@@ -1,0 +1,8 @@
+npx create-react-app unsconiwebsite
+
+npm install @arwes/design @arwes/animation @arwes/sounds @arwes/core
+
+npm install react@17 react-dom@17 prop-types @emotion/css@11 @emotion/react@11 polished@4 animejs@3 howler@2.2
+
+
+npm install @types/react@17 @types/react-dom@17 @types/animejs@3 @types/howler@2.2
