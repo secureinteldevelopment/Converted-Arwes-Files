@@ -1,4 +1,4 @@
-npx create-react-app unsconiwebsite
+npx create-react-app arwes-test
 
 npm install @arwes/design @arwes/animation @arwes/sounds @arwes/core
 
