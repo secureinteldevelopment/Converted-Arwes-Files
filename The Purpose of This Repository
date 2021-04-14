@@ -1,0 +1,30 @@
+So, in this repository we will be analysing the files from the "Prometheus-Design-Reference" repo and figuring out how to make those files launchable from "react.js" 
+(react.js is also known as 'creating a react app')
+The first file called "arwes npm packages.txt" is my current understanding of the npm packages/dependencies required to enable all of the UI COMPONENTS seen on
+"Prometheus-Design-Reference" also known as "arwes scifi ui" (check this link to see:  https://version1-breakpoint1.arwes.dev/
+
+Our project board contains the "TO-DO" list. It's located on the "Converted-Arwes-Files" repository under the "Projects" tab.
+
+
+From my understanding:
+* "Arwes" is to run off of "react.js" (not react.native)
+* "Arwes" uses npm packages for it's UI components
+
+The required development script environments are required:
+    *  Node.js
+    *  python
+    *  react.js
+    
+TO MAKE A REACT APP:
+1.) Download Node.js
+2.) Install all optional add-ons for Node (Including Choc0latey) 
+3.) Install visual studio code
+4.) Once VS-Code is intalled and setup, type (ctrl + `) to open the terminal
+5.) On the VS-Code terminal enter the following command "cd desktop"
+6.) Then type "npx create-react-app my-first-app"
+7.) After the app is created, type into VS-Code terminal "cd dektop" CLICK ENTER then type "cd my-first-app" CLICK ENTER
+        * Once step 7 is completed, you are now running a terminal in your react apps directory
+        * To get a visual look at the apps file hierarchy, open VS-code and under file click "Open folder" and select the folder called "my-first-app"
+        * Once you open the apps folder imput (ctrl + `) or select the terminal tab and create a terminal in your apps directory. 
+        * Once completed, you can then type in the terminal "npm start" hit ENTER.... After this your app will open on a development server on your localhost
+        * From here you can edit the src files in your app to edit your website.... you can view these changes live on the development server
