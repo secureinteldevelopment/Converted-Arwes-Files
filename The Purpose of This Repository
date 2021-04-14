@@ -28,3 +28,8 @@ TO MAKE A REACT APP:
         * Once you open the apps folder imput (ctrl + `) or select the terminal tab and create a terminal in your apps directory. 
         * Once completed, you can then type in the terminal "npm start" hit ENTER.... After this your app will open on a development server on your localhost
         * From here you can edit the src files in your app to edit your website.... you can view these changes live on the development server
+
+
+
+
+
